@@ -6,6 +6,7 @@
 //  Copyright © 2015 Nick Servidio. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 
 @interface CAGradientLayer (IPGradients)
