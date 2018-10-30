@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io
 
+### OSX ###
+*.DS_Store
+
 ### Xcode ###
 build/
 *.pbxuser
@@ -16,3 +19,12 @@ xcuserdata
 DerivedData
 *.xcuserstate
 
+### OSX ###
+*.DS_Store
+
+### Carthage ###
+#
+# Add these line if you want to avoid checking in source code from Carthage dependencies.
+
+Carthage/Checkouts
+Carthage/Build
